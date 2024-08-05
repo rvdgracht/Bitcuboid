@@ -1,6 +1,6 @@
 # Bitcuboid
-Bitcuboid is an open software/hardware Bitcoin miner. It's based on the Bitaxe but contains 4 ASICs and is powered over USB type C.
-Bitcuboid contains 4 Bitmain BM1366 ASIC's as found on the S19XP.
+Bitcuboid is an open software/hardware Bitcoin miner. It's based on the [Bitaxe](https://github.com/skot/bitaxe) but contains 4 ASICs and is powered over USB type C.
+Bitcuboid contains 4 Bitmain BM1366 ASIC's as found on the Antminer S19XP.
 
 Bitcuboid in its 3D printed development case (for easy access):
 ![bitcuboid devcase](doc/devcase_running.jpg)
