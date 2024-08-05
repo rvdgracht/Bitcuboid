@@ -6,7 +6,7 @@ Bitcuboid in its 3D printed development case (for easy access):
 ![bitcuboid devcase](doc/devcase_running.jpg)
 
 ## Features
-- **ESP32-S6-WROOM-1** RISC-V core + WiFi in a single module
+- **ESP32-C6-WROOM-1** RISC-V core + WiFi in a single module
 - 0.91" **SSD1306 OLED** I2C Display Module
 - **USB-C PD** support for power negotiation
 - 4 BM1366 ASICs
