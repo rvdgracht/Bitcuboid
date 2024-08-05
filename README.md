@@ -25,3 +25,12 @@ was added. It's pulled down by the M3 screws and applies pressure at the back of
 the ASICS with the M4 screws.
 
 ![pcb_v1_cross](doc/pcb_v1_cross.jpg)
+
+## Software
+- The [ESP-Miner](https://github.com/rvdgracht/ESP-Miner) firmware used for the Bitaxe has been adapted for Bitcuboid.
+
+## Power Supply Requirements
+- A 65W (or more) USB type C charger supporting 20V and >= 2.5A. Bitcuboid with default setting needs about 45W.
+
+There are portable 100W solar panels with USB type C output :P
+![bitcuboid_solar](doc/bitcuboid_solar.jpg)
